@@ -10,7 +10,7 @@
 
 [Ссылка на личный репозиторий](https://github.com/KatorinaRain/-Internet-Technologies)
 
-[Ссылка на личную страницу](https://github.com/KatorinaRain)
+[Ссылка на личную страницу](https://katorinarain.github.io/-Internet-Technologies/)
 
 ## ✅Лабораторная работа №2
 Разработка простого веб-приложения:
